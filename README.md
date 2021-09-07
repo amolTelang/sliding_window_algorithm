@@ -1,2 +1,3 @@
 # sliding_window_algorithm
-Solved various problem statements using sliding door algorithm
+Main.java: basic sliding window using fixed window size
+dynamic.java:sliding window using dynamic window size
