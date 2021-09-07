@@ -7,3 +7,6 @@ dynamic.java: sliding window using dynamic window size <br />
 slidingWindowC: implementation of sliding window using c <br />
 <br />
 slidignDynamicWindowC: implementation of sliding window algorithm with dynamic window size in c <br />
+<br />
+maxLength: finding the max length of the subarray with a given sum <br />
+<br />
